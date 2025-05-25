@@ -1,0 +1,4 @@
+.btn-highlight:focus {
+    outline: 3px solid #8a63d2;
+    outline-offset: 2px;
+}
